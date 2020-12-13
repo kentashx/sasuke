@@ -1,0 +1,996 @@
+tournament,no,name,age,height,weight,profession,title,result
+37,1,LAGI Nakaya ,29,,,ダンサー,,0
+37,2,Nishino Miki ,20,,,アイドル,,0
+37,3,Torisawa Katsuhide ,47,162,85,職員,,0
+37,4,Monkki ,51,,,書道家,,0
+37,5,Yamada Kota ,12,,,中学生,,0
+37,6,Kumegawa Yuya ,26,,,漁師,,0
+37,7,Matsushita,26,,,タレント,,0
+37,9,Arakawa Haruna ,20,,,アスリート,,0
+37,10,Mori Wataru ,36,172,60,タレント,,0
+37,11,Hashimura Wataru ,25,,,会社員,,0
+37,12,Natsuaki Kamil ,21,,,モデル,,0
+37,13,TOSHIKI ,34,,,アーティスト,,0
+37,14,Jibiki Yasushi ,38,,,航空救難団,,0
+37,15,Mishima Ryuhei ,36,,,職人,,0
+37,16,Kirayama Hitomi ,49,,,議員,,0
+37,17,Honma Takashi ,50,,,バンダイ　SASUKE部,,0
+37,18,Yagishita Sora ,25,,,バンダイ　SASUKE部,,0
+37,19,Fujishima Kota ,24,,,ダンサー,,0
+37,20,Katagiri Jō ,31,,,職人,,0
+37,21,Sakuma Kota ,27,,,教員,,0
+37,22,Iwamoto Ako ,26,,,アスリート,,0
+37,23,Nakamura Mao ,23,,,ホステス,,0
+37,24,Hosoi Toshiyuki ,53,,,,,0
+37,25,Uemura Yuki ,26,,,トレーナー,,0
+37,26,Kishimoto Kunihide ,25,,,アスリート,,0
+37,27,Ikeno Yoshihiro ,24,,,神主,,
+37,28,Imanishi Satoshi ,34,,,教員,,0
+37,29,Omi Yuto ,24,,,会社員,,0
+37,30,Ito Kosei ,25,,,アスリート,,0
+37,31,Ishibashi Taro ,31,,,編集者,,0
+37,32,Matsuda Daisuke ,44,,,職人,,0
+37,33,KAREN ,23,,,ダンサー,,0
+37,35,Iwaki Yuta ,27,,,俳優,,0
+37,36,Takahira Tamotsu ,27,,,職人,,0
+37,37,Saito Shinya ,27,,,職員,,0
+37,38,Matsumura Ryo ,24,,,教員,,0
+37,39,Takahito Sakurai ,26,,,会社員,,0
+37,40,Tanaka Daisuke ,25,,,大学生,,0
+37,41,Aoki Satoshi ,25,,,職人,,0
+37,42,Battur ,25,,,,foreign,0
+37,43,Ashlin Herbert ,25,,,,foreign,0
+37,44,Jackie Wong ,43,,,,foreign,0
+37,45,Jackie Chang ,45,,,芸人,,0
+37,47,Yamamoto Yoshiyuki ,27,,,,黒虎,2
+37,48,Isa Yoshinori ,26,,,,黒虎,2
+37,49,Tada Tatsuya ,27,166.5,63,教員,森本世代,3
+37,50,Sunagawa Shinya ,24,,,大学生,,0
+37,51,Tosaka Junichi ,48,,,会社員,,0
+37,52,Inoue Sakura ,20,,,タレント,,0
+37,53,Takahashi Fu ,21,,,俳優,,0
+37,54,Restrepo ,26,,,タレント,,0
+37,55,Saikawa Kōji ,24,,,俳優,,1
+37,56,Miyashita Junichi ,36,,,アスリート,,0
+37,57,Araki Naoyuki ,26,,,デザイナー,森本世代,0
+37,58,Kato Reo ,24,,,モデル,,0
+37,59,Okada Yoshifumi ,35,,,アスリート,,0
+37,60,Hioki Masashi ,38,168,60,会社員,SASUKE新世代,2
+37,61,Iketani Naoki ,46,168,58,アスリート,,0
+37,62,Akiyama Koki ,29,,,職人,,0
+37,63,Hide Maeda ,34,,,アーティスト,,0
+37,64,Sho Okubo ,30,,,自衛官,,0
+37,65,Kikuchi Satoshi ,20,,,消防士,,0
+37,66,Sakai Yuichiro ,28,,,アスリート,,0
+37,67,Takano Kairu ,20,,,俳優,,0
+37,68,Kanno Kazuki ,32,,,調理師,,0
+37,69,Minato Sou ,32,,,漁師,,0
+37,70,Shintani Kazumasa ,31,,,会社員,,0
+37,71,Wakky ,47,178,68,芸人,,0
+37,72,Miyago Shohei ,31,,,医師,,0
+37,73,Nakagawa Koji ,29,,,会社員,,0
+37,74,Morita Manaho ,21,,,職員,,0
+37,75,Suzuki Yusuke ,41,171,58,教員,SASUKE新世代,1
+37,76,Ali Hay ,31,,,,foreign,0
+37,77,Oshima Ayano ,25,,,会社員,くのいち,0
+37,78,Kou ,24,,,,Yotuber,0
+37,79,Gil Marantz ,24,,,,foreign,0
+37,80,Nagasaki Shunsuke ,32,173,70,アスリート,SASUKE新世代,0
+37,81,Zin ,25,175,70,ダンサー,,0
+37,82,Urakawa Shohei ,22,170,60,ダンサー,,0
+37,83,Takechi Kaisei ,21,183,78,ダンサー,,0
+37,84,Yamamoto Shingo ,45,171,67,職員,SASUKEオールスターズ,0
+37,85,Kanno Hitoshi ,34,168,64,デザイナー,SASUKE新世代,0
+37,86,Iwamoto Hikaru ,26,182,68,アーティスト,,0
+37,87,Tsukada Ryoichi ,33,168,65,ダンサー,,0
+37,88,René Kaselowsky ,23,176,70,象使い,,3
+37,89,Kyoguchi Hiroto ,26,162,54,アスリート,,0
+37,90,Yamamoto Keitaro ,28,164,59,教員,森本世代,0
+37,91,Matachi Ryo ,30,162,53,職員,SASUKE新世代,0
+37,92,Jamie Rahn ,31,,,,foreign,0
+37,93,Tsukahara Naoki ,34,180,78,アスリート,,0
+37,94,Satō Jun ,28,175,69,アスリート,,2
+37,95,Sam Kendricks ,27,185,79,アスリート,,0
+37,96,Urushihara Yuuji ,41,163,55,営業,SASUKE新世代,2
+37,97,Darvish Kenji ,39,181,73,ミュージシャン,,0
+37,98,Jessie Graff ,35,173,60,スタントマン,,2
+37,99,Kawaguchi Tomohiro ,38,178,63,職人,SASUKE新世代,0
+37,100,Morimoto Yūsuke ,28,162.5,59,エンジニア,森本世代,0
+36,1,Hasegawa Mamoru ,24,,,アーティスト,,0
+36,2,Matsui Rakugi ,14,,,中学生,,0
+36,3,Torisawa Katsuhide ,46,162,85,職員,,0
+36,4,Sakuma Kota ,26,,,教員,,0
+36,5,Matsuki Tomohiro ,27,,,職員,,0
+36,6,Aramori Sho ,24,,,会社員,,0
+36,7,Kaneko Shunsuke ,37,,,会社員,,0
+36,8,Kamada Jyunji ,46,,,ドライバー,,0
+36,9,Hoshi Kazufumi ,39,,,職人,,0
+36,10,Minato Sou ,31,,,漁師,,0
+36,11,KAZUMA ,28,,,アーティスト,,0
+36,12,Kuroda Yuuta ,25,,,ダンサー,,0
+36,13,Shigeru Kimura ,43,,,支配人,,0
+36,14,Nogawa Daisuke ,21,,,職人,,0
+36,15,Shouma Yoshida ,26,,,研究員,,0
+36,16,Murata Arashi ,16,,,アスリート,,0
+36,17,Daichi Nagata ,21,,,大学生,,0
+36,18,Takiguchi Yuta ,34,,,職員,,0
+36,19,Risaizawa Atsushi ,31,,,農家,,0
+36,20,Sugawara Yoshihiro ,23,,,農家,,0
+36,21,Matsumoto Rei ,32,,,,,0
+36,22,Ando Yukino ,24,,,教員,,0
+36,23,Shimojo Yutaro ,32,,,アスリート,,0
+36,24,Nobunaga Kobayashi ,19,,,職人,,0
+36,25,Masuko Shuichi ,29,,,会社員,,0
+36,26,Arakawa Haruna ,19,,,アスリート,,0
+36,27,Nachi Suzuki ,33,,,会社員,,0
+36,28,Yoshimoto Joutaro ,18,,,高校生,,0
+36,29,Sakurai Yuki ,26,,,ドライバー,,0
+36,30,Asuka Takagi ,25,,,警察官,,0
+36,31,Oyama Miki ,33,,,アスリート,,0
+36,32,Sakai Yuichiro ,27,,,営業,,0
+36,33,Kiuchi Tsubasa ,36,,,弁護士,,0
+36,34,Hattori Yuki ,31,,,引っ越し,,0
+36,35,Maiko Shiraishi ,36,,,医師,,0
+36,36,Miki Nishino ,19,,,アイドル,,0
+36,37,Noriyoshi Miyoshi ,50,,,歯科技工士,,0
+36,38,Suzuki Koichi ,48,,,インストラクター,,0
+36,39,Takahashi Ota ,47,,,教員,,0
+36,40,Akiyama Koki ,28,,,職人,,0
+36,41,Mr. Shachihoko ,26,,,芸人,,0
+36,42,Ishibashi Taro ,33,,,編集者,,0
+36,43,Honma Takashi ,49,,,バンダイ　SASUKE,,0
+36,44,Ichiyoi Notake ,23,,,教官,,0
+36,45,Hideaki So ,24,,,海士,,0
+36,46,Ishida Takumi ,30,,,芸人,,0
+36,47,Sato Kentaro ,32,,,漫画家,,0
+36,48,Gotoh Yuuki ,29,,,自衛官,,0
+36,49,Naoki Takahashi ,24,,,保安官,,0
+36,50,Hoshino Kaihei ,20,,,自衛官,,0
+36,51,KAREN ,22,,,ダンサー,,0
+36,52,Iwamoto Hikaru ,25,182,68,アーティスト,,0
+36,53,Sunagawa Shinya ,23,,,大学生,,0
+36,54,Taisuke Kono ,24,,,タレント,,0
+36,55,Takahito Kayano ,48,,,教員,,0
+36,56,Maeda Mizuki ,24,,,職員,黒虎,0
+36,57,Isa Yoshinori ,25,,,アスリート,黒虎,0
+36,58,Kim Jin-Guk ,33,,,アスリート,foreign,0
+36,59,Kenji Kanehara ,22,,,アスリート,,0
+36,60,Matsuda Daisuke ,43,,,職人,,0
+36,61,Ishikuna Noa ,22,,,タレント,,0
+36,62,Pee ,26,,,タレント,,0
+36,63,Araki Naoyuki ,25,,,デザイナー,森本世代,2
+36,64,MAXIMA ,21,,,アスリート,,0
+36,65,Shuzo Yoshizawa ,28,,,アスリート,,0
+36,66,Can Yutaka ,33,165,,アーティスト,,0
+36,67,Watanabe Shuuto ,29,,,アスリート,,0
+36,68,Aoki Yusuke ,20,,,俳優,,0
+36,69,Kondo Hiroki ,23,,,アスリート,,0
+36,70,Morimoto Kimito ,25,,,アスリート,,0
+36,71,Hioki Masashi ,37,168,60,営業,SASUKE新世代,2
+36,72,Watabe Ryo ,26,,,消防士,,0
+36,73,Tada Tatsuya ,26,166.5,63,教員,森本世代,2
+36,74,Takumaki Kunitomo ,30,,,車夫,,0
+36,75,Ugajin Shogo ,26,,,職人,森本世代,1
+36,76,Mori Wataru ,35,172,60,タレント,,1
+36,77,Oshima Ayano ,24,,,会社員,くのいち,0
+36,78,Stefanie Noppinger ,25,,,,foreign,0
+36,79,Kou / TWINS ,23,,,Youtuber,,0
+36,80,Tsukada Ryoichi ,32,168,65,ダンサー,,0
+36,81,Yamamoto Shingo ,44,171,67,職員,SASUKEオールスターズ,0
+36,82,Suzuki Yusuke ,40,171,58,教員,SASUKE新世代,0
+36,83,Nakagawa Takaharu ,27,,,アスリート,,1
+36,84,Nagashima Tetsuta ,26,,,アスリート,,0
+36,85,Takeda Toshihiro ,43,171,61,消防士,SASUKEオールスターズ,0
+36,86,Urabe Hirotaka ,29,169,57.5,アスリート,,0
+36,87,Tanaka Kenji ,32,,,アスリート,,0
+36,88,YOH ,30,171,85,アスリート,,0
+36,89,Ben Toyer ,28,,,スタントマン,foreign,2
+36,90,Nguyễn Doãn Thọ ,28,,,,foreign,0
+36,91,Yamamoto Seito ,26,,,アスリート,,0
+36,92,Matachi Ryo ,29,162,53,配管工,SASUKE新世代,2
+36,93,Yamamoto Keitaro ,27,164,59,教員,森本世代,1
+36,94,Nagasaki Shunsuke ,31,173,70,アスリート,SASUKE新世代,0
+36,95,Urushihara Yuuji ,40,163,55,営業,SASUKE新世代,2
+36,96,Satō Jun ,27,,,アスリート,森本世代,2
+36,97,Drew Drechsel ,29,175,73,インストラクター,foreign,1
+36,98,Darvish Kenji ,38,181,73,ミュージシャン,,2
+36,99,Kawaguchi Tomohiro ,37,178,63,職人,SASUKE新世代,2
+36,100,Morimoto Yūsuke ,27,162.5,59,エンジニア,森本世代,3
+35,1,Takeda Nobuhiro ,50,177,72,アスリート,,0
+35,2,Akira 100%,43,170,59,芸人,,0
+35,3,Torisawa Katsuhide ,45,162,85,職員,,0
+35,4,Fujimoto Tsukasa ,34,,,アスリート,,0
+35,5,Murata Arashi ,16,,,アスリート,,0
+35,6,Akiyama Koki ,27,,,職人,,0
+35,7,Nose Kohei ,23,,,職人,,0
+35,8,Dairaku Yuya ,24,,,店員,,0
+35,9,Sugiyama Kenta ,28,,,職人,,0
+35,10,Morimoto Tetsuya ,35,,,経理,,0
+35,11,Maruyama Karina ,35,,,アスリート,,0
+35,12,Shimizu Konan ,19,,,大学生,,0
+35,13,Hosaka Daiju ,28,,,研究員,,0
+35,14,Kato Shu ,31,,,航空管制官,,0
+35,15,Oji Hiroki ,35,,,インストラクター,,0
+35,16,Ishii Ryoji ,40,,,会社員,,0
+35,17,Kishi Hideaki ,31,,,芸人,,0
+35,18,Little Kiyomiya ,40,173,83,芸人,,0
+35,19,Kobayashi Kenshiro ,22,,,インストラクター,,0
+35,20,Fujiwara Tomoki ,31,,,俳優,,0
+35,21,Razor Ramon HG ,42,185,88,芸人,,0
+35,22,Tomioka Hiroshi ,47,,,アーティスト,,0
+35,23,Igarashi Yasuo ,34,,,フレスコボーラー,,0
+35,24,Asatani Takamasa ,36,,,住職,,0
+35,25,SHO ,28,,,アスリート,,0
+35,26,YOH ,29,,,アスリート,,0
+35,27,Kozuka Takuya ,35,,,会社員,,0
+35,28,Ashiya Yuki ,21,,,会社員,,0
+35,29,Suzuki Yuya ,29,,,営業,,0
+35,30,Okayama Kenichiro ,33,,,コンサル,,0
+35,31,Can Yutaka ,33,165,,アーティスト,,0
+35,32,Matsuda Daisuke ,42,,,職人,,0
+35,33,Tanimoto Kōji ,37,,,役員,,0
+35,34,Sugimoto Keigo ,33,,,エンジニア,,0
+35,35,Miyata Hideyuki ,27,,,営業,,0
+35,36,Aono Hikaru ,25,,,アスリート,,0
+35,37,Honma Takashi ,48,,,マネージャー,,0
+35,38,Sakai Yuichiro ,26,,,アスリート,,0
+35,39,Yoshinaga Katsumi ,41,,,教員,,0
+35,40,Sekine Ryosuke ,22,,,麻薬犬ハンドラー,,0
+35,41,Iwamoto Hikaru ,24,182,68,アーティスト,,0
+35,42,Kodama Kengo ,21,,,消防士,,0
+35,43,Matsune Bruno ,28,,,職員,,0
+35,44,Sakuma Kota ,25,,,教員,,0
+35,45,Onishi Kohei ,24,,,役員,,0
+35,46,Onodera Toshihisa ,47,,,職員,,0
+35,47,Okayama Ryoji ,30,,,警察官,,0
+35,48,Kodama Satoshi ,34,,,編集者,,0
+35,49,Ishibashi Taro ,32,,,編集者,,0
+35,50,Morimoto Yuta ,26,,,インストラクター,,0
+35,51,KAREN ,22,,,ダンサー,,0
+35,52,Kumamoto Shin ,28,,,職人,,0
+35,53,Suetsugu Yusaku ,28,,,外交員,,0
+35,54,Shuta Koki ,18,,,教員,,0
+35,55,Yamada Shoji ,23,,,消防士,,0
+35,56,Hayakawa Hayato ,35,,,職人,,0
+35,57,Kanno Kazuki ,32,,,調理師,,0
+35,58,Takiguchi Yuta ,33,,,職員,,0
+35,59,Noguchi Koji ,27,,,会社員,,0
+35,60,Hioki Masashi ,36,168,60,営業,SASUKE新世代,2
+35,61,Yamamoto Hiroshige ,25,,,職員,黒虎,0
+35,62,Obata Satoshi ,25,,,工場人,黒虎,0
+35,63,Takasu Seiki ,27,,,船長,,0
+35,64,Nagasawa Hideki ,27,,,医師,,0
+35,65,Komatsu Kosui ,26,,,インストラクター,,0
+35,66,Ohara Natsuki ,27,,,アスリート,,0
+35,67,Araki Naoyuki ,25,,,デザイナー,森本世代,0
+35,68,Tada Tatsuya ,25,166.5,63,教員,森本世代,0
+35,69,Kawano Koushirou ,27,,,インストラクター,,0
+35,70,Kobayashi Keita ,26,,,職人,,0
+35,71,Mori Wataru ,35,172,60,タレント,,0
+35,72,Kanno Hitoshi ,32,168,64,デザイナー,SASUKE新世代,0
+35,73,Matachi Ryo,28,,,職人,SASUKE新世代,0
+35,74,Yamamoto Shingo ,43,171,67,職員,SASUKEオールスターズ,0
+35,75,Haruyama Ryo ,26,,,アスリート,,0
+35,76,Yoshida Yuki ,29,,,自衛官,,0
+35,77,Pete Forbes ,32,,,パイロット,,0
+35,78,Gomi Yuki ,24,,,自衛官,,0
+35,79,Danno Shun ,26,,,教員,,0
+35,80,Miwa Satsuma ,21,,,大学生,,0
+35,81,Yamamoto Seito ,26,,,アスリート,,0
+35,82,Yokota Shun ,27,,,アスリート,,0
+35,83,Arai Shogo ,24,,,アスリート,,0
+35,84,Kimura Sho ,29,,,アスリート,,0
+35,85,Yamamoto Ryosuke ,38,,,アスリート,,0
+35,86,Tsukada Ryoichi ,31,168,65,ダンサー,,0
+35,87,Ono Minami ,21,,,潜水士,,0
+35,88,Ugajin Shogo ,25,,,職人,森本世代,0
+35,89,Yamamoto Keitaro ,26,164,59,教員,森本世代,1
+35,90,Takeru ,26,168,60,アスリート,,0
+35,91,Takeda Toshihiro ,42,171,61,消防士,SASUKEオールスターズ,0
+35,92,Nagasaki Shunsuke ,30,173,70,アスリート,SASUKE新世代,1
+35,93,Takahashi Kenji ,42,178,68,ドライバー,,0
+35,94,Suzuki Yusuke ,39,171,58,教員,SASUKE新世代,0
+35,95,Urushihara Yuuji ,39,163,55,営業,SASUKE新世代,0
+35,96,Darvish Kenji ,37,181,73,ミュージシャン,,1
+35,97,Sato Jun ,26,175,69,アスリート,森本世代,2
+35,98,Drew Drechsel ,29,175,73,インストラクター,foreign,2
+35,99,Kawaguchi Tomohiro ,36,178,63,職人,SASUKE新世代,2
+35,100,Morimoto Yūsuke ,26,162.5,59,エンジニア,森本世代,3
+34,1,KAREN ,21,,,ダンサー,,0
+34,2,Ishida Takumi ,29,,,,,0
+34,3,Torisawa Katsuhide ,45,162,85,職員,,0
+34,4,Kawamura Riki,,,,,,0
+34,5,Miyazawa Ryota,,,,,,0
+34,6,Ueno Yuki ,22,,,,,0
+34,7,Matsuzawa Satoshi,,,,,,0
+34,8,Takiguchi Yuta,,,,職員,,0
+34,9,Shunsuke Motohashi,,,,,,0
+34,10,Miyawaki Tsukeno,,,,,,0
+34,11,Okubo Reo ,38,,,,,0
+34,12,Iwama Yoshimasa,41,,,,,0
+34,13,Takaiwa Nobuo ,20,,,,,0
+34,14,Sasamoto Takehiro,,,,,,0
+34,15,Kimura Akihiro,,,,,,0
+34,16,Okamoto Mikimasa ,25,,,,,0
+34,17,Matsumura Masashi ,34,,,,,0
+34,18,Inoue Keisuke ,26,,,,,0
+34,19,Mori Yuta,,,,,,0
+34,20,Nakajima Tsuyoshi ,38,,,,,0
+34,21,Ito Taira ,27,,,,,0
+34,22,Yoshida Takayuki ,35,,,,,0
+34,23,Takahira Tamotsu,,,,,,0
+34,24,Nagahara Ryotaro ,26,,,,,0
+34,25,Nakata Katsuya,,,,,,0
+34,26,Naito  Ryo,,,,,,0
+34,27,Oishi Keiya ,22,,,,,0
+34,28,Hamada Keita,,,,,,0
+34,29,Tachibana Daiki,,,,,,0
+34,30,Noguchi Tatsuo ,43,,,,,0
+34,31,Kobayashi Hirokazu,,,,,,0
+34,32,Fukuda Ryuya,,,,,,0
+34,33,Mochizuki Yuto,,,,,,0
+34,34,Ono Minami ,21,,,,,1
+34,35,Suzuki Kentaro,,,,,,0
+34,36,Ueda Kenji,,,,,,0
+34,37,Tanaka Yuki,,,,,,0
+34,38,Ugajin Shogo ,24,,,職人,森本世代,1
+34,39,Nakayama Hiroki,,,,,,0
+34,40,Fujimatsu Tatsuhiro ,26,,,,,1
+34,41,Hosoe Itsuki ,18,,,,,0
+34,42,Amano Joji ,32,,,アーティスト,,0
+34,43,Urabe Hirotaka,,,,,,0
+34,44,Iwamoto Hikaru ,24,182,68,アーティスト,,0
+34,45,Hioki Masashi ,36,168,60,営業,SASUKE新世代,2
+34,46,Takasu Seiki ,26,,,船長,,1
+34,47,Yamamoto Hiroshige ,24,,,職員,黒虎,1
+34,48,Watanabe Yousuke ,33,,,職員,黒虎,0
+34,49,Obata Satoshi ,25,,,工場人,黒虎,2
+34,50,Kishino Ryogo,,,,,,0
+34,51,Someya Yuka ,25,,,,,0
+34,52,Rena,,,,,,0
+34,53,Matsuda Karan ,17,,,,,0
+34,54,Usami  Mao,,,,,,0
+34,55,Nagasaki Takamasa ,28,,,,,0
+34,56,Tada Tatsuya ,25,166.5,63,教員,森本世代,0
+34,57,Jonishi Takeshi ,22,,,,,0
+34,58,Aoki Yusuke ,19,,,,,0
+34,59,HAYATE,,,,,,0
+34,60,Kawano Yuya,,,,,,0
+34,61,Sakai Yasushi ,38,,,,,0
+34,62,Ei Yuki,,,,,,0
+34,63,Ozawa Yuta ,27,,,,,0
+34,64,Tsukamoto Hiroki,,,,,,0
+34,65,Tahara Hiroki,,,,,,0
+34,66,Watanabe Takahito ,23,,,,,0
+34,67,Hoshi Shintaro,,,,,,0
+34,68,Matsuda Daisuke ,42,,,職人,,0
+34,69,Kawano Koshiro ,32,,,,,0
+34,70,Fujikawa Yuji,,,,,,0
+34,71,Yamazaki Akuri,,,,,,0
+34,72,Ogasawara Tsubasa,,,,,,0
+34,73,Fujimoto Soichiro ,35,,,,,0
+34,74,Yamamoto Keitaro ,26,164,59,教員,森本世代,1
+34,75,Dion Trigg ,39,,,,,0
+34,76,Shiratori Taiju ,21,,,,,0
+34,77,Chochi Daiki,,,,,,0
+34,78,Inetsuki Yōhei ,38,,,,,0
+34,79,Tanimoto Tatsuya,,,,,,0
+34,80,Igarashi Dai ,22,,,,,1
+34,81,Takeru ,26,168,60,アスリート,,1
+34,82,Katayama Yoshiaki ,23,,,,,0
+34,83,Takahashi Kenji ,41,178,68,ドライバー,,1
+34,84,Suzuki Yusuke ,39,171,58,教員,SASUKE新世代,2
+34,85,Kawatani Sasuke ,21,,,,,0
+34,86,Takaharu Nakagawa ,25,,,,,1
+34,87,Jessie Graff ,33,,,,,2
+34,88,Tsukada Ryoichi ,30,168,65,ダンサー,,1
+34,89,Darvish Kenji ,36,181,73,ミュージシャン,,1
+34,90,Mori Wataru ,34,172,60,タレント,,0
+34,91,Takeda Toshihiro ,42,171,61,消防士,SASUKEオールスターズ,1
+34,92,Yamamoto Shingo ,43,171,67,職員,SASUKEオールスターズ,0
+34,93,Anastase Ragivaru,25,,,,,2
+34,94,Matachi Ryo ,28,162,53,配管工,SASUKE新世代,0
+34,95,Nagasaki Shunsuke ,30,173,70,アスリート,SASUKE新世代,1
+34,96,Sato Jun ,26,175,69,アスリート,森本世代,2
+34,97,Drew Drechsel ,28,175,73,インストラクター,foreign,2
+34,98,Kawaguchi Tomohiro ,35,178,63,職人,SASUKE新世代,2
+34,99,Urushihara Yuuji ,39,163,55,営業,SASUKE新世代,1
+34,100,Morimoto Yūsuke ,25,162.5,59,エンジニア,森本世代,2
+33,1,Nakayama Kinnikun ,38,177,77,芸人,,0
+33,2,Oya Motomi,,,,,,0
+33,3,Torisawa Katsuhide ,44,162,85,職員,,0
+33,4,Ikeda Yuki,,,,,,0
+33,5,Manabe Daiki,,,,,,0
+33,6,Saito Yuki,,,,,,0
+33,7,Hamada Keita,,,,,,0
+33,8,Matsuzawa Satoshi ,28,,,,,0
+33,9,Terazawa Sho ,27,,,,,0
+33,10,Ogawa Taro,,,,,,0
+33,11,Hayemi Takeshi,,,,,,0
+33,12,Horiuchi  Ryo,,,,スタッフ,,0
+33,13,Taniguchi Kotaro ,13,,,,,0
+33,14,Kawano Yosuke ,39,,,,,0
+33,15,Ogawa Hiroyasu,,,,,,0
+33,16,Tokunaga Naoki,,,,,,0
+33,17,Matsumoto Daiki,,,,,,0
+33,18,Kanno Kazuki,,,,,,0
+33,19,Kato Hideaki,,,,,,0
+33,20,Miki Yasuo,,,,,,0
+33,21,Miki Koji ,29,,,,,0
+33,22,Nakomoto Yuki,,,,,,0
+33,23,Hida Takahiro,,,,,,0
+33,24,Hachitani Takumi,,,,,,0
+33,25,Higuchi Keneo,,,,,,0
+33,26,Ogino Hiroyuki,,,,,,0
+33,27,Naito  Ryo,,,,,,0
+33,28,Yamada Shu ,21,,,,,0
+33,29,Hattori Taiki,,,,,,0
+33,30,Ikeda Katsuhiro ,33,,,,,0
+33,31,Yamamoto Hiroshige ,24,,,職員,黒虎,0
+33,32,Obata Satoshi ,24,,,工場人,黒虎,0
+33,33,Yamada Katsumi ,51,175,75,職員,SASUKEオールスターズ,0
+33,34,Kyan Yutaka ,32,,,,,0
+33,35,Iwamoto Hikaru ,23,182,68,アーティスト,,0
+33,36,Jonishi Takeshi ,30,,,,,0
+33,37,Honma Kenta ,23,,,,,0
+33,38,Hosono Yoshihisa ,32,,,,,0
+33,39,Ueda Yoritaka ,34,,,,,0
+33,40,Asao Hitoshi,,,,,,0
+33,41,Iketani Naoki ,43,168,58,アスリート,,0
+33,42,Amano Joji ,32,,,アーティスト,,0
+33,43,Utsunomiya Kazuki,,,,,,0
+33,44,Ibushi Kota,,,,,,0
+33,45,Hioki Masashi ,35,168,60,営業,SASUKE新世代,1
+33,46,Anna Konno ,27,,,,,0
+33,47,Tomaru Sayaka,,,,,,0
+33,48,RENA,,,,,,0
+33,49,Usami Mao ,21,,,,,0
+33,50,Matsuda Karan ,16,,,,,0
+33,51,Watanabe Kana ,28,,,,,0
+33,52,Takasu Seiki ,26,,,船長,,1
+33,53,Yamamura Shingo,,,,,,0
+33,54,Suzuki Koki,,,,,,0
+33,55,Takiguchi Yuta ,32,,,職員,,0
+33,56,Oikawa Yui ,24,,,,,0
+33,57,Hayashi  Sho,,,,,,0
+33,58,Koyanagi Eiichi,,,,,,0
+33,59,Iwata Koji,,,,,,0
+33,60,Nishida Akihito ,28,,,,,0
+33,61,Ikegawa Yusuke ,31,,,,,0
+33,62,Mori Naoto,,,,,,0
+33,63,Yamada Motoki,,,,,,0
+33,64,Tanaka Yuma,,,,,,0
+33,65,Inatsuki Yohei,,,,,,0
+33,66,Matsuda Daisuke ,41,,,職人,,0
+33,67,Suzuki Shota,29,,,,,0
+33,68,Narita Shinichiro,,,,,,0
+33,69,Dekita Kazuya,30,,,,,0
+33,70,Takaharu Nakagawa ,25,,,,,0
+33,71,Miyoshi Shuhei ,22,,,,,0
+33,72,Nakayama Hiroki,,,,,,0
+33,73,Sasaki Shohei,26,,,,,1
+33,74,Oto  Jun,,,,,,0
+33,75,Eriguchi  Jun,,,,,,0
+33,76,Nishimura Satoshi,,,,,,0
+33,77,Igarashi Dai ,21,,,,,1
+33,78,Suzuki Yuki,17,,,,,0
+33,79,Kamegawa Masaki,,,,,,0
+33,80,Kishimoto Shinya ,37,,,工場人,,0
+33,81,Takeru ,25,168,60,アスリート,,1
+33,82,Darvish Kenji ,36,181,73,ミュージシャン,,0
+33,83,Mori Wataru ,34,172,60,タレント,,1
+33,84,Liao Long Zhun,,,,,foreign,0
+33,85,Kikuchi Masayuki ,27,,,,,1
+33,86,Tsukada Ryoichi ,30,168,65,ダンサー,,1
+33,87,Takahashi Kenji ,41,178,68,ドライバー,,0
+33,88,Matachi Ryo ,27,162,53,配管工,SASUKE新世代,0
+33,89,Urushihara Yuuji ,38,163,55,営業,SASUKE新世代,0
+33,90,Takeda Toshihiro ,41,171,61,消防士,SASUKEオールスターズ,1
+33,91,Yamamoto Shingo ,42,171,67,職員,SASUKEオールスターズ,0
+33,92,Kanno Hitoshi ,31,168,64,デザイナー,SASUKE新世代,0
+33,93,Suzuki Yusuke ,38,171,58,教員,SASUKE新世代,0
+33,94,Anastase Ragivaru ,25,173,77,ダンサー,,0
+33,95,Asa Kazuma ,35,172,62,職人,SASUKE新世代,2
+33,96,Drew Drechsel ,27,175,73,インストラクター,foreign,2
+33,97,Sato Jun ,25,175,69,アスリート,森本世代,2
+33,98,Nagasaki Shunsuke ,29,173,70,アスリート,SASUKE新世代,2
+33,99,Kawaguchi Tomohiro ,35,178,63,職人,SASUKE新世代,0
+33,100,Morimoto Yūsuke ,25,162.5,59,エンジニア,森本世代,2
+32,1,Saito Tsukasa ,37,,,,,0
+32,2,Inomata  Sho,,,,,,0
+32,3,Torisawa Katsuhide ,44,162,85,職員,,0
+32,4,Kuniyama Hasen ,25,,,,,0
+32,5,Yamagishi Masaya ,23,,,,,0
+32,6,Yamashita Yuta,,,,,,0
+32,7,Kawano Ichijou,,,,,,0
+32,8,Hamada Keita ,27,,,,,0
+32,9,Mizuno Ryoji ,36,,,,,0
+32,10,Ota Hirohisa ,32,,,,,0
+32,11,Tsukada Ryoichi ,29,168,65,ダンサー,,0
+32,12,Tamura Shinji,,,,,,0
+32,13,Fujioka Shunsei,,,,,,0
+32,14,Nakamura Kenjin,,,,,,0
+32,15,Miruhara Seijou,,,,,,0
+32,16,Mizunoya Yuichi ,36,,,,,0
+32,17,Horiuchi  Ryo,,,,スタッフ,,0
+32,18,Yamazaki Shingo,,,,,,0
+32,19,Yoshida Mikio,,,,,,0
+32,20,Watabe Ryota,,,,,,0
+32,21,Okura Shimon ,23,175,55,モデル,,0
+32,22,Kato Hideaki,,,,,,0
+32,23,Koga Hikaridairo,,,,,,0
+32,24,Ozaki  Ryo,,,,,,0
+32,25,Inatsuki Yohei,,,,,,0
+32,26,Ogasawara Tsubasa,,,,,,0
+32,27,Kato Yusuke,,,,,,0
+32,28,Hida Takahiro ,32,,,,,0
+32,29,Akiyama Jun ,30,,,,,0
+32,30,Hikuchi Kaneo ,34,,,,,0
+32,31,Hioki Masashi ,35,168,60,営業,SASUKE新世代,0
+32,32,Matsubara Shinji ,24,,,工場人,黒虎,0
+32,33,Yamamoto Hiroshige ,23,,,職員,黒虎,0
+32,34,Obata Satoshi ,23,,,工場人,黒虎,0
+32,35,Ugajin Shogo,,,,,,0
+32,36,Kunimoto Mitsuhiro,,,,,,0
+32,37,Hikawa Kazuyuki,,,,,,0
+32,38,Okaro Tomohito,,,,,,0
+32,39,Miyagawa Kentaro,,,,,,0
+32,40,Togashi Kenshiro ,19,,,,,0
+32,41,Can Yutaka ,31,165,,アーティスト,,0
+32,42,Tatsuya Tanimoto,,,,,,0
+32,43,Hokama Gishi,,,,,,0
+32,44,Takayuki Igaki,32,,,,,0
+32,45,Amano Joji ,31,,,アーティスト,,0
+32,46,Takahashi Keigo,,,,,,0
+32,47,Nishimura Shuta,,,,,,0
+32,48,Leino Shimamura,,,,,,0
+32,49,Wada Ryuji,,,,,,0
+32,50,Ibushi Kota ,34,,,,,0
+32,51,Kacy Catanzaro ,26,,,,,0
+32,52,Inamura Ami ,20,,,,,0
+32,53,Saiki Reika ,24,,,,,0
+32,54,Tomaru Sayaka ,19,,,,,0
+32,55,Futamura Haruka ,20,,,,,0
+32,56,Watanabe Mika,,,,,,0
+32,57,Utada  Yui,,,,,,0
+32,58,Mineta Grace ,23,,,,,0
+32,59,Takada Kaho ,20,,,,,0
+32,60,Shiromuko Maya,,,,,,0
+32,61,Akiyama Reina,,,,,,0
+32,62,Brent Steffensen ,35,,,,,2
+32,63,Peindante Shonosuke,,,,,,0
+32,64,Nonaka Yudai ,26,,,,,0
+32,65,Tsuruta Yuki,,,,,,0
+32,66,Suzuki Yusuke ,37,171,58,教員,SASUKE新世代,2
+32,67,Yamaguchi Yoshiki,,,,,,0
+32,68,Tsuneji Yokouchi,,,,,,0
+32,69,Nakayama Kouki,,,,,,0
+32,70,Perry Oosterlee ,21,,,,,0
+32,71,Narita Shinichiro,,,,,,0
+32,72,Araki Naoyuki ,23,,,デザイナー,森本世代,0
+32,73,Sasaki Gen,20,,,,,0
+32,74,Matsuda Daisuke ,40,,,職人,,0
+32,75,Kung Cheen-Howng,,,,,,0
+32,76,Sato Jun ,24,175,69,アスリート,森本世代,2
+32,77,Takiguchi Yuta,,,,職員,,0
+32,78,Kikuchi Masayuki,,,,,,0
+32,79,Taniguchi Kotarou,,,,,,0
+32,80,Akiyama Koki ,24,,,職人,,0
+32,81,Takeru ,24,168,60,アスリート,,0
+32,82,Mori Wataru ,33,172,60,タレント,,0
+32,83,Ihara Naoki ,34,,,,,0
+32,84,Zhang Wang Yang ,24,,,,,0
+32,85,André Sihm ,24,,,,,2
+32,86,Liao Long Zhun,,,,,foreign,0
+32,87,Nagasaki Shunsuke ,29,173,70,アスリート,SASUKE新世代,2
+32,88,Kishimoto Shinya ,37,,,工場人,,0
+32,89,Urushihara Yuuji ,37,163,55,営業,SASUKE新世代,0
+32,90,Matachi Ryo ,27,162,53,配管工,SASUKE新世代,0
+32,91,Darvish Kenji ,35,181,73,ミュージシャン,,0
+32,92,Takahashi Kenji ,40,178,68,ドライバー,,0
+32,93,Drew Drechsel ,27,175,73,インストラクター,foreign,2
+32,94,Anastase Ragivaru ,25,173,77,ダンサー,,2
+32,95,Asa Kazuma ,34,172,62,職人,SASUKE新世代,0
+32,96,Kanno Hitoshi ,31,168,64,デザイナー,SASUKE新世代,0
+32,97,Kawaguchi Tomohiro ,34,178,63,職人,SASUKE新世代,2
+32,98,Takeda Toshihiro ,41,171,61,消防士,SASUKEオールスターズ,0
+32,99,Yamamoto Shingo ,41,171,67,職員,SASUKEオールスターズ,0
+32,100,Nagano Makoto ,44,162,64,漁師,SASUKEオールスターズ,0
+31,1,Miyazaki Ryo ,26,,,,,0
+31,2,Ogata Takahiro ,38,,,,,0
+31,3,Torisawa Katsuhide ,43,162,85,職員,,0
+31,4,Fumoto Toshitaka ,20,,,,,0
+31,5,Ito Kenji,,,,,,0
+31,6,Yonamine Ryota,,,,,,0
+31,7,Nishigaki Yohei,,,,,,0
+31,8,Yanagida Hiroyuki,,,,,,0
+31,9,Kurokawa Daigo ,31,,,,,0
+31,10,Nishiguchi Ryuji,,,,,,0
+31,11,Abareru-Kun ,28,,,,,0
+31,12,Yamamoto Ryusuke ,20,,,,,0
+31,13,Takiguchi Yuta,,,,職員,,0
+31,14,Ikeda Kenta,,,,,,0
+31,15,Iwata Koji ,33,,,,,0
+31,16,Horiuchi  Ryo,,,,スタッフ,,0
+31,17,Kikuchi Daijiro,,,,,,0
+31,18,Nobu Takashi,,,,,,0
+31,19,Kasahara Katsuhiko,,,,,,0
+31,20,Kondo Yuji,,,,,,0
+31,21,Ibushi Kota ,33,,,,,0
+31,22,Kaneda Tomoko ,42,,,,,0
+31,23,Goto Kazunori ,33,,,,,0
+31,24,Tabuchi Yasuhiro ,28,,,,,0
+31,25,Morinaga Yusuke,,,,,,0
+31,26,Kikuchi Akira,,,,,,0
+31,27,Usami Hiroaki,,,,,,0
+31,28,Minemoto Yuki,,,,,,0
+31,29,Tokunaga  Ryu,,,,,,0
+31,30,Okura Shimon ,22,175,55,モデル,,0
+31,31,Hioki Masashi ,34,168,60,営業,SASUKE新世代,2
+31,32,Matsubara Shinji ,23,,,工場人,黒虎,0
+31,33,Watanabe Yousuke ,31,,,職員,黒虎,0
+31,34,Yamamoto Hiroshige ,23,,,職員,黒虎,1
+31,35,Kono Jinki ,24,,,,,0
+31,36,Kobayashi Masahiro ,25,,,,,0
+31,37,Sugawara Shun,,,,,,0
+31,38,Iwakuma Seiya,,,,,,0
+31,39,Nagano Tomoya ,27,,,,,0
+31,40,Hanamoto Riku ,22,,,,,1
+31,41,Can Yutaka ,30,165,,アーティスト,,0
+31,42,Iijima Toyohisa ,39,,,,,0
+31,43,Kuniyama Hasen ,24,,,,,0
+31,44,Amano Joji ,30,,,アーティスト,,0
+31,45,Peindante Shonosuke ,21,,,,,0
+31,46,Purotan ,25,,,,,0
+31,47,Osako Kenta,,,,,,0
+31,48,Vocal Toshiki,,,,,,0
+31,49,Zhang Wang Yang ,23,,,,,1
+31,50,Itaya Kouki,,,,,,0
+31,51,Someya Yuka ,23,,,,,0
+31,52,Oshima Ayano ,20,,,会社員,くのいち,0
+31,53,Fujiwara Kahori,,,,,,0
+31,54,Ida Nao ,23,,,,,0
+31,55,Cecil Tanaka,,,,,,0
+31,56,Watanabe Mika ,36,,,主婦,くのいち,0
+31,57,Suzuki Yurie ,23,,,,,0
+31,58,Hanai Rumi ,27,,,,,0
+31,59,Kishi Asuka ,24,,,,,0
+31,60,Hoshina Mitsuki ,19,,,,,0
+31,61,Kawaura Asuka ,21,,,,,0
+31,62,Fukuda Yukimi,23,,,,,0
+31,63,Murofushi Yuka ,38,,,,,0
+31,64,Ishimaru Kenjirō ,61,,,,,0
+31,65,Suzuki Yusuke,,,,,,0
+31,66,Tanaka  Ryo,,,,,,0
+31,67,Takeyasu Kazuaki,,,,,,0
+31,68,Ito Kazuya,,,,,,0
+31,69,Terasawa Kazuhide,,,,,,0
+31,70,Miki Kosuke,,,,,,0
+31,71,Kudo Makoto,,,,,,0
+31,72,Anastase Ragivaru ,24,173,77,ダンサー,,2
+31,73,Yahagi Makoto,,,,,,0
+31,74,Iwashita Yoshihiro,,,,,,0
+31,75,Kung Cheen-Howng ,29,,,,,1
+31,76,Okada Yuuichi ,41,,,,,1
+31,77,Arashida Ryoichi,,,,,,0
+31,78,Ihara Naoki ,33,,,,,0
+31,79,Fukanuma Kai ,21,,,,,1
+31,80,Doi Kazuya,,,,,,0
+31,81,Tsukada Ryoichi ,28,168,65,ダンサー,,0
+31,82,Darvish Kenji ,34,181,73,ミュージシャン,,1
+31,83,Takeru ,23,168,60,アスリート,,0
+31,84,Alexander Mars ,28,,,,,1
+31,85,Liao Long Zhun,,,,,foreign,0
+31,86,Kikuchi Masamitsu ,23,,,,,1
+31,87,Someya Koki ,26,180,80,アスリート,,0
+31,88,Nagasaki Shunsuke ,28,173,70,アスリート,SASUKE新世代,0
+31,89,Takahashi Kenji ,39,178,68,ドライバー,,2
+31,90,Kishimoto Shinya ,36,,,工場人,,0
+31,91,Morimoto Yūsuke ,23,162.5,59,エンジニア,森本世代,4
+31,92,Yamamoto Shingo ,40,171,67,職員,SASUKEオールスターズ,0
+31,93,Takeda Toshihiro ,40,171,61,消防士,SASUKEオールスターズ,0
+31,94,Drew Drechsel ,26,175,73,インストラクター,foreign,2
+31,95,Asa Kazuma ,33,172,62,職人,SASUKE新世代,2
+31,96,Kanno Hitoshi ,30,168,64,デザイナー,SASUKE新世代,2
+31,97,Kawaguchi Tomohiro ,33,178,63,職人,SASUKE新世代,2
+31,98,Nagano Makoto ,43,162,64,漁師,SASUKEオールスターズ,0
+31,99,Urushihara Yuuji ,36,163,55,営業,SASUKE新世代,0
+31,100,Matachi Ryo ,26,162,53,配管工,SASUKE新世代,0
+30,1,Naito Daisuke ,39,,,,,0
+30,2,Sugaya Tetsuya ,20,,,,,0
+30,3,Torisawa Katsuhide ,42,162,85,職員,,0
+30,4,Nishimura Takashi ,26,,,,,0
+30,5,Ikeda Kento ,23,,,,,0
+30,6,Kikukawa Yasuhiro ,36,,,,,0
+30,7,Ikea Hideki ,30,,,,,0
+30,8,Suzuki Yoshiyuki ,24,,,,,0
+30,9,Himono Ryou ,33,,,,,0
+30,10,Fukanuma Kai ,20,,,,,0
+30,11,Orakio ,36,,,,,0
+30,12,Terada Shinjiro,,,,,,0
+30,13,Oonishi Yuma,16,,,,,0
+30,14,Morisawa Noritomo ,22,,,,,1
+30,15,Itaya Tomohiro ,29,,,,,0
+30,16,Narita Dome ,28,,,,,0
+30,17,Waki Masami ,30,,,,,0
+30,18,Seimiya Yuuta ,27,,,,,0
+30,19,Tanaka Seiki ,25,,,,,0
+30,20,Kamaishi Ryuuma ,29,,,,,0
+30,21,Ono Yukimasa ,13,,,,,0
+30,22,Yasuko ,25,,,,,0
+30,23,Ida Hiroto ,15,,,,,0
+30,24,Endo Seiichi ,59,,,,,0
+30,25,Kakisako Mitsuo ,52,,,,,0
+30,26,Little Tiger ,31,,,,,0
+30,27,Sasaki Youko ,29,,,,,0
+30,28,Oonishi Yukiko ,27,,,,,0
+30,29,RENA ,23,,,,,0
+30,30,eMY,,,,,,0
+30,31,Matsubara Shinji ,22,,,工場人,黒虎,0
+30,32,Yamamoto Hiroshige ,21,,,職員,黒虎,2
+30,33,Watanabe Yousuke ,30,,,職員,黒虎,0
+30,34,Yamada Katsumi ,48,175,75,職員,SASUKEオールスターズ,0
+30,35,Hioki Masashi ,33,168,60,営業,SASUKE新世代,1
+30,36,Nagato Hagakure ,27,,,,,0
+30,37,Oto Koichi ,23,,,,,0
+30,38,Nagano Tomoya ,24,,,,,0
+30,39,Matsubara Katsuo ,33,,,,,0
+30,40,Matsuo Nobuhiro,,,,,,0
+30,41,Okura Shimon ,21,175,55,モデル,,0
+30,42,Yokohama Ryusei ,17,,,,,0
+30,43,Suzuki Yusuke ,35,171,58,教員,SASUKE新世代,0
+30,44,Murayama Takuya,,,,,,0
+30,45,Gondou Hiroyuki ,33,,,パン,,0
+30,46,Hashimoto Yuuki,,,,,,0
+30,47,Okada Yukimasa,,,,,,0
+30,48,Nagase Tasuku ,21,,,,,0
+30,49,Yamamoto Ryusuke ,19,,,,,0
+30,50,Ishii Yuuta,,,,,,0
+30,51,Iijima Toyohisa ,38,,,,,0
+30,52,Ishimaru Kenjiro ,60,,,,,0
+30,53,Watanabe Mika ,35,,,主婦,くのいち,0
+30,54,Sawayama Rina ,25,,,アスリート,,0
+30,56,Hanai Rumi ,26,,,,,0
+30,57,Antonina Seleznyova,,,,,,0
+30,58,Kawaura Asuka ,20,,,,,0
+30,59,Oyamada Takuma ,14,,,,,0
+30,60,Amano Joji ,29,,,アーティスト,,0
+30,61,Uchiyama Maroka,,,,,,0
+30,62,Kono Jinki ,23,,,,,0
+30,63,Imamura Daisuke ,32,,,,,0
+30,64,Wariya Taizo ,24,,,,,0
+30,65,Kung Cheen-Howng ,28,,,,,1
+30,66,Liao Long Zhun,,,,,foreign,0
+30,67,Kawaguchi Tomohiro ,32,178,63,職人,SASUKE新世代,3
+30,68,Kadono Yuuya ,25,,,,,1
+30,69,Hoshikawa Taiga ,20,162,,教員,,1
+30,70,Katakabe Hiromasa ,31,,,,,1
+30,71,Takami Toshiharu ,22,,,大学生,,1
+30,72,Morikami Daisuke ,29,,,,,1
+30,73,Kishimoto Shinya ,35,,,工場人,,2
+30,74,Ishikawa Terukazu ,36,,,,,1
+30,75,Katō Ryouma ,22,,,,,0
+30,76,Matsuo Yousuke,,,,,,0
+30,77,Maeda  Ryu,,,,,,0
+30,78,Kane Anzai,,,,,,0
+30,79,Darvish Kenji ,33,181,73,ミュージシャン,,0
+30,80,Takeda Toshihiro ,39,171,61,消防士,SASUKEオールスターズ,1
+30,81,Nakayama Kinnikun ,35,177,77,芸人,,1
+30,82,Wakky ,41,178,68,芸人,,1
+30,83,Kaneko Yousuke ,28,,,,,0
+30,84,Someya Koki ,26,180,80,アスリート,,1
+30,85,Yamaguchi Kosuke ,33,,,,,0
+30,86,Nagasaki Shunsuke ,27,173,70,アスリート,SASUKE新世代,2
+30,88,Takeru ,22,168,60,アスリート,,0
+30,89,Nakano Daisuke ,31,,,,,0
+30,90,Lee En-Chih ,39,173,57,アスリート,foreign,2
+30,91,Drew Drechsel ,25,175,73,インストラクター,foreign,2
+30,92,Yamamoto Shingo ,39,171,67,職員,SASUKEオールスターズ,1
+30,93,Urushihara Yuuji ,35,163,55,営業,SASUKE新世代,1
+30,94,Matachi Ryo ,25,162,53,配管工,SASUKE新世代,3
+30,95,Takahashi Kenji ,38,178,68,ドライバー,,1
+30,96,Kanno Hitoshi ,29,168,64,デザイナー,SASUKE新世代,2
+30,97,Shiratori Bunpei ,46,,,,,0
+30,98,Asa Kazuma ,32,172,62,職人,SASUKE新世代,2
+30,99,Nagano Makoto ,42,162,64,漁師,SASUKEオールスターズ,1
+30,100,Morimoto Yusuke ,22,,,,,1
+29,1,Doi Yuuto ,19,,,,,0
+29,2,Hamatani Kenji ,35,,,,,0
+29,3,Kosugi Yusuke ,38,,,,,0
+29,4,MASA ,29,,,,,0
+29,5,Nakajima Hikaru ,20,,,,,0
+29,6,Torisawa Katsuhide ,41,162,85,職員,,0
+29,7,Miyanaga Yuuta ,31,,,,,0
+29,8,Iida Yoshinori ,20,,,,,0
+29,9,Kitamoto Tsuneo ,31,,,,,0
+29,10,Hara Daijiro ,27,,,,,0
+29,11,Kajiwara Yuuta ,32,,,,,0
+29,12,Takeda Kouzou ,40,,,,,0
+29,13,Ishii Hitoshi ,23,,,,,0
+29,14,Nishimura Takashi ,23,,,,,0
+29,15,Honbo Hiroaki ,24,,,,,0
+29,16,Miyamoto Kohei ,28,,,,,0
+29,17,Enokido Hayato ,23,,,,,0
+29,18,Narita Shinichirou ,28,,,,,0
+29,19,Miyamoto Hiroshi ,30,,,,,0
+29,20,Gondou Hiroyuki ,32,,,パン,,0
+29,21,Suzuki Takayuki ,22,,,,,0
+29,22,Takano Tomomi ,25,,,,,0
+29,23,Onuki Yusuke ,24,,,,,0
+29,24,Sakamoto Naoki ,23,,,,,0
+29,25,Sawaki Keiichi ,22,,,,,0
+29,26,Takauchi Hiroaki ,60,,,,,0
+29,27,Yoshino Kazutaka ,34,,,,,0
+29,28,Ookubo Kazunari ,35,,,,,0
+29,29,Maeda Ryu ,36,,,,,0
+29,30,Suzuki Takahiko ,33,,,,,0
+29,31,Sawayama Rina ,24,,,アスリート,,0
+29,32,Minowaman ,37,,,,,0
+29,33,Orakio ,35,,,,,0
+29,34,Mizoo Motohiro ,32,,,,,0
+29,35,Endo Seiichi ,58,,,,,0
+29,36,Yamamoto Shingo ,38,171,67,職員,SASUKEオールスターズ,1
+29,37,Yamazaki Yasuhiro ,43,,,,,0
+29,38,Seto Shou ,19,,,,,0
+29,39,Nakano Yuudai ,23,,,,,0
+29,40,Arashida Ryoichi ,41,,,,,0
+29,41,Hashimoto Kouji ,29,,,,,1
+29,42,RENA ,21,,,,,0
+29,43,Tsudaa Takahiro ,24,,,,,0
+29,44,Namba Sumito ,35,,,,,0
+29,45,Seto Takeo ,32,,,,,0
+29,46,Tomoyuki ,33,,,,,0
+29,47,Yamamoto Hiroshige ,20,,,職員,黒虎,0
+29,48,Watanabe Yousuke ,29,,,職員,黒虎,0
+29,49,Okada Satoma ,19,,,,,0
+29,50,Mizukawa Keishi ,32,,,,,0
+29,51,Amano Joji ,28,,,アーティスト,,0
+29,52,Shimoda Hiroki ,36,,,,,0
+29,53,Uchiyama Shintaro ,67,,,,,0
+29,54,Onedari Yutaka ,27,,,,,0
+29,55,Kawamura Rika ,30,,,,,0
+29,56,Lee En-Chih ,38,173,57,アスリート,foreign,1
+29,57,Morikami Daisuke ,28,,,,,1
+29,58,Kobayashi Masaaki ,38,,,,,0
+29,59,Takigawa Tsuyoshi ,21,,,,,0
+29,60,Hoshikawa Taiga ,19,162,,教員,,1
+29,61,Inoue Hidekazu ,27,,,,,1
+29,62,Katakabe Hiromasa ,30,,,,,1
+29,63,Yoshida Hiromori ,21,,,,,0
+29,64,Kawashima Takayuki ,33,,,,,0
+29,65,Takami Toshiharu ,21,,,大学生,,1
+29,66,Ookoshi Kouki ,24,,,,,0
+29,67,Ishikawa Terukazu ,35,,,,,1
+29,68,Fujimatsu Tatsuhiro ,22,,,,,0
+29,69,Iwabuchi Yuuta ,27,,,,,0
+29,70,Tomino Keita ,31,,,,,0
+29,71,Nanbu Makoto ,26,,,,,0
+29,72,Kurozumi Yoshie ,23,,,,,0
+29,73,Hioki Masashi ,32,168,60,営業,SASUKE新世代,1
+29,74,Washimi Yuji ,35,,,,,0
+29,75,Maeda Kyosuke ,20,,,,,0
+29,76,Itou Kousei ,19,,,,,0
+29,77,Toyoda Masashi ,30,,,,,0
+29,78,Tatayama Masaaki ,43,,,,,0
+29,79,Morimoto Yūsuke ,21,162.5,59,エンジニア,森本世代,2
+29,80,Higashi Akinori ,28,,,,,0
+29,81,Hagiwara Tomoko ,33,,,,,0
+29,82,Watanabe Mika ,34,,,主婦,くのいち,0
+29,83,Miyazaki Ryo ,24,,,,,0
+29,84,Nakano Daisuke ,30,,,,,0
+29,85,Nakayama Kinnikun ,34,177,77,芸人,,0
+29,86,Wakky ,40,178,68,芸人,,1
+29,87,Takahashi Kenji ,37,178,68,ドライバー,,2
+29,88,Kishimoto Shinya ,33,,,工場人,,0
+29,89,Okuyama Yoshiyuki ,43,,,,,1
+29,90,Kadono Yuuya ,24,,,,,1
+29,91,Yamamoto Keitaro ,21,164,59,教員,森本世代,1
+29,92,Araki Naoyuki ,20,,,デザイナー,森本世代,0
+29,93,Nagasaki Shunsuke ,26,173,70,アスリート,SASUKE新世代,1
+29,94,Satō Hiromichi ,44,,,,,0
+29,95,Takeda Toshihiro ,38,171,61,消防士,SASUKEオールスターズ,0
+29,96,Asa Kazuma ,31,172,62,職人,SASUKE新世代,2
+29,97,Kanno Hitoshi ,28,168,64,デザイナー,SASUKE新世代,2
+29,98,Matachi Ryo ,24,162,53,配管工,SASUKE新世代,1
+29,99,Urushihara Yuuji ,34,163,55,営業,SASUKE新世代,1
+29,100,Nagano Makoto ,41,162,64,漁師,SASUKEオールスターズ,0
+28,1,Fukuda Yuuya ,22,,,,,0
+28,2,Aoki Tsuyoshi ,25,,,,,0
+28,3,Kojima Yoshio ,32,,,,,0
+28,4,Soya Miyu ,20,,,,,0
+28,5,Yoshimi Ranmaru ,22,,,,,0
+28,6,Inoue Takuya ,23,,,,,0
+28,7,Masumura Kouji ,40,,,,,0
+28,8,Yamada Tetsuya ,22,,,,,0
+28,9,Torisawa Katsuhide ,40,162,85,職員,,0
+28,10,Toyoda Masashi ,29,,,,,0
+28,11,Mystera ,39,,,,,0
+28,12,Inoue Hidekazu ,27,,,,,0
+28,13,Miyamoto Hiroshi ,29,,,,,0
+28,14,Umemoto Fukutarou ,28,,,,,0
+28,15,Iiyama Kouta ,21,,,,,0
+28,16,Sasaki Seitaro ,32,,,,,0
+28,17,Matsumoto Yuuma ,37,,,,,0
+28,18,Kawakami Kyousuke ,30,,,,,0
+28,19,Tamura Takashi ,25,,,,,0
+28,20,Itou Kosei ,18,,,,,0
+28,21,Tanaka Mitsuteru ,28,,,,,0
+28,22,Benkei ,24,,,,,0
+28,23,Saitou Kazuhiro ,30,,,,,0
+28,24,Suzuki Yusuke ,34,171,58,教員,SASUKE新世代,0
+28,25,Tamaya Yuudai ,28,,,,,0
+28,26,Cho Jung-Pil ,38,,,,,0
+28,27,Shimada Hiroyo ,29,,,,,0
+28,28,Okamoto Shinichi ,36,,,,,0
+28,29,Yasuda Ryou ,24,,,,,0
+28,30,Yamanaka Shusaku ,37,,,,,0
+28,31,Darvish Kenji ,32,181,73,ミュージシャン,,0
+28,32,Shimizu Kazuki,22,,,,,0
+28,33,Suzuki Nana ,24,,,,,0
+28,34,Sekiguchi Mendy ,21,,,,,0
+28,35,Nicchiro ,34,,,,,0
+28,36,Horii Arata ,20,,,,,0
+28,37,Gondou Hiroyuki ,32,,,パン,,0
+28,38,Yogo Noriaki ,33,,,,,0
+28,39,Hino Yuusuke ,29,,,,,0
+28,40,Hashimoto Kouji ,28,,,,,0
+28,41,Sawayama Rina ,24,,,アスリート,,0
+28,42,Murakami Takashi ,41,,,,,0
+28,43,Kumagaya Taisuke ,36,,,,,0
+28,44,Someya Koki ,24,180,80,アスリート,,1
+28,45,Suzuki Kumu ,22,,,,,0
+28,46,Miyazawa Kazutaka ,36,,,,,0
+28,47,Yamazaki Yasuhiro ,43,,,,,0
+28,48,Masaki Kei ,38,,,,,0
+28,49,Miyashita Yuusuke ,19,,,,,0
+28,50,Yamada Takeshi ,29,,,,,0
+28,51,Amano Joji ,27,,,アーティスト,,0
+28,52,Nogami Mana ,20,,,,,0
+28,53,Kuramochi Minoru ,65,,,,,0
+28,54,Drew Barybarymorebetter ,39,,,,,0
+28,55,Oyamada Takuma ,13,,,,,0
+28,56,Sakamoto Shingo ,20,,,,,0
+28,57,Iida Yasuhiro ,30,,,,,0
+28,58,Asa Kazuma ,30,172,62,職人,SASUKE新世代,2
+28,59,Murakami Akinori ,28,,,,,0
+28,60,Hoshikawa Taiga ,18,162,,教員,,0
+28,61,Sugimura Taizou ,33,,,,,0
+28,62,Seto Takeo ,32,,,,,0
+28,63,Ohura Ryuichi ,44,,,,,0
+28,64,Yoshizaki Kenji ,38,,,,,0
+28,65,Mikado Tatsumi ,44,,,,,0
+28,66,Tanaka Shunsuke ,34,,,,,0
+28,67,Megumigawa Hiroyuki ,37,,,,,0
+28,68,Kashima Hisashi ,26,,,,,0
+28,69,Takami Toshiharu ,20,,,大学生,,0
+28,70,Fujinami Koji ,41,,,,,0
+28,71,Nakamura Yasutaka ,28,,,,,0
+28,72,Joe Lobeck ,22,,,,,0
+28,73,Isaiah How ,22,,,,,0
+28,74,Yokoyama Masakazu ,28,,,,,0
+28,75,Nakao Ryuichi ,36,,,,,0
+28,76,Iketani Naoki ,39,168,58,アスリート,,0
+28,77,Hososhima Osamu ,37,,,,,0
+28,78,Okamoto Sei ,23,,,,,0
+28,79,Hamamoto Hideki ,39,,,,,0
+28,80,Yasuda Tomoya ,30,,,,,0
+28,81,Nakayama Kinnikun ,34,177,77,芸人,,0
+28,82,Watanabe Mika ,34,,,主婦,くのいち,0
+28,83,Lee En-Chih ,38,173,57,アスリート,foreign,0
+28,84,Kusano Seiya ,24,,,,,0
+28,85,Wakky ,40,178,68,芸人,,0
+28,86,Fifty ,24,,,,,0
+28,87,Matachi Ryo ,23,162,53,職人,SASUKE新世代,1
+28,88,Urushihara Yuuji ,34,163,55,営業,SASUKE新世代,2
+28,89,Kanno Hitoshi ,27,168,64,デザイナー,SASUKE新世代,2
+28,90,Kaneko Yousuke ,26,,,,,0
+28,91,Hagiwara Tomoko ,32,,,,,0
+28,92,Mohammed Farid Isham ,30,,,,,0
+28,93,Alan Zhang ,26,,,,,0
+28,94,Will Dodd ,27,,,,,0
+28,95,Sakamoto Koki ,26,,,,,0
+28,96,Akiyama Kazuhiko ,39,,,,,0
+28,97,Takeda Toshihiro ,37,171,61,消防士,SASUKEオールスターズ,0
+28,98,Yamamoto Shingo ,38,171,67,職員,SASUKEオールスターズ,0
+28,99,Yamada Katsumi ,47,175,75,職員,SASUKEオールスターズ,0
+28,100,Nagano Makoto ,40,162,64,漁師,SASUKEオールスターズ,0
